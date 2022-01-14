@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: navy;
+}
+
+h2 {
+    background-color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+p,
+li {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.des {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+body{
+    background-color: navajowhite;
+}
